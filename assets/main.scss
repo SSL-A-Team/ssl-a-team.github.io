@@ -1,0 +1,11 @@
+---
+---
+@import "minima";
+
+.site-title::before {
+	content: url("/ateam-ball-no-background.svg");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
