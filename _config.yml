@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   participating in the Small Size League.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ateam.soccer" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "header-logo.svg"
 
 github_username:  SSL-A-Team
 youtube_username: "@sslateam"
