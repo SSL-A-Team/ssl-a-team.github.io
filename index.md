@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+Welcome to our website!
+
+We're still getting things set up here. In the meantime, you can find our designs and code on [GitHub](https://github.com/SSL-A-Team).
