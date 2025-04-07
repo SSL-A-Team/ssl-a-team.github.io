@@ -27,6 +27,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ateam.soccer" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "header-logo.svg"
 
+header_pages:
+  - pages/about.md
+  - pages/events.md
+  - pages/news.md
+  - pages/publications.md
+
 github_username:  SSL-A-Team
 youtube_username: "@sslateam"
 
