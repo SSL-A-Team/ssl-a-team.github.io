@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- assign events = site.pages | where: "layout", "event" | where: "event_public", "true" | sort: "date" | reverse -%}
+  {%- if events.size > 0 -%}
+    <ul class="post-list">
+      {%- for event in events -%}
+      <li>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ event.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- else -%}
+    <p>Check back here for information on events hosted by the A-Team!</p>
+  {%- endif -%}
+
+</div>
