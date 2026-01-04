@@ -1,14 +1,14 @@
 ---
 layout: event
-title: A-Town Showdown 2026
-permalink: /events/a-town-showdown-2026
+title: Peachtree Open 2026
+permalink: /events/peachtree-open-2026
 event_public: true
 date: 2026-03-21
 ---
 
-![A-Town Showdown Event Logo](/assets/img/a-town-showdown-2026-logo.png){: height="250" }
+![Peachtree Open Event Logo](/assets/img/peachtree-open-2026-logo.png){: height="250" }
 
-The A-Team and [RoboJackets](https://robojackets.org/) are proud to present the A-Town Showdown, a spring [RoboCup Small Size League](https://ssl.robocup.org/) invitational tournament.
+The A-Team and [RoboJackets](https://robojackets.org/) are proud to present the Peachtree Open, a spring [RoboCup Small Size League](https://ssl.robocup.org/) tournament.
 
 ## Spectators Weclome!
 
