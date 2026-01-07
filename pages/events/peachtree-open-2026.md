@@ -34,9 +34,13 @@ Paid parking available in Georgia Tech [Visitor Parking Zones](https://www.pts.g
 
 ### Registration
 
-Registration is free for all teams. Please fill out the form below to let us know you're interested in attending.
+Registration is free for all teams. 
 
-**[Register Here]()**
+A registration form will be posted here when event registration opens. Check back soon!
+
+<!-- Please fill out the form below to let us know you're interested in attending. -->
+
+<!-- **[Register Here]()** -->
 
 ### Tournament Details
 
