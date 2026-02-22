@@ -20,7 +20,9 @@ The event is open to the public from 9:00a to 5:00pm EST.
 
 <span style="font-size: 24px;">🗓️</span>\
 Saturday\
-March 21, 2026\
+March 21, 2026
+
+### Official Match Schedule
 
 | Game Schedule          | Time   |
 |------------------------|--------|
@@ -28,8 +30,10 @@ March 21, 2026\
 | Match 2                | 11:30a |
 | Match 3                |  1:00p |
 | Match 4                |  2:30p |
-| Grand Final            |  4:00p | 
+| Grand Final            |  4:00p |
 | Event Closes to Public |  5:00p |
+
+### Full Event Schedule
 
 | Full Schedule                                  | Time   |
 |------------------------------------------------|--------|
@@ -43,7 +47,7 @@ March 21, 2026\
 | Tech Talk - Hierarchical State Machine AI      |  2:00p |
 | Match 4                                        |  2:30p |
 | Tech Talk - Multi-Agent Reinforcement Learning |  3:30p |
-| Grand Final                                    |  4:00p | 
+| Grand Final                                    |  4:00p |
 | Event Closes to Public                         |  5:00p |
 | Teardown Begins                                |  5:05p |
 | Competitors Leave                              |  5:30p |
