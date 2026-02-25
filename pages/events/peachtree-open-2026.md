@@ -8,18 +8,53 @@ date: 2026-03-21
 
 ![Peachtree Open Event Logo](/assets/img/peachtree-open-2026-logo.png){: height="250" }
 
-The A-Team and [RoboJackets](https://robojackets.org/) are proud to present the Peachtree Open, a spring [RoboCup Small Size League](https://ssl.robocup.org/) tournament.
+The A-Team is proud to help [RoboJackets](https://robojackets.org/) host The RoboCup Small Size League US Open 2026: "**The Peachtree Open**", a spring [RoboCup Small Size League](https://ssl.robocup.org/) tournament.
 
 ## Spectators Weclome!
 
-Admission is FREE! Stop by to see exciting robot soccer matches and chat with the folks building the bots. Between matches, we'll have presentations explaining how the robots work and what it takes to make computers understand soccer!
+Admission is FREE! Stop by to see exciting robot soccer matches and chat with the folks building the bots. Between matches, we'll have presentations explaining how the robots work and what it takes to make computers understand soccer! 
+
+The event is open to the public from 9:00a to 5:00pm EST.
 
 ## Event Details
 
 <span style="font-size: 24px;">🗓️</span>\
 Saturday\
-March 21, 2026\
-Times TBA
+March 21, 2026
+
+### Official Match Schedule
+
+| Game Schedule          | Time   |
+|------------------------|--------|
+| Match 1                | 10:00a |
+| Match 2                | 11:30a |
+| Match 3                |  1:00p |
+| Match 4                |  2:30p |
+| Grand Final            |  4:00p |
+| Event Closes to Public |  5:00p |
+
+### Full Event Schedule
+
+| Full Schedule                                  | Time   |
+|------------------------------------------------|--------|
+| Event Opens to Competitors                     |  8:00a |
+| Event Opens to Public                          |  9:00a |
+| Match 1                                        | 10:00a |
+| Tech Talk - Motion Fundamentals                | 11:00a |
+| Match 2                                        | 11:30a |
+| Tech Talk - 3D Printing for Robotics           | 12:30p |
+| Match 3                                        |  1:00p |
+| Tech Talk - Hierarchical State Machine AI      |  2:00p |
+| Match 4                                        |  2:30p |
+| Tech Talk - Multi-Agent Reinforcement Learning |  3:30p |
+| Grand Final                                    |  4:00p |
+| Event Closes to Public                         |  5:00p |
+| Teardown Begins                                |  5:05p |
+| Competitors Leave                              |  5:30p |
+| Teardown Complete                              |  6:00p |
+| No Host Social - Location TBD                  |  7:30p |
+
+TBA: No Host Social, all volunteers and competitors invited.
 
 <span style="font-size: 24px;">🗺️</span>\
 Klaus Advanced Computing Building\
