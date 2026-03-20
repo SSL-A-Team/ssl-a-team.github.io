@@ -52,9 +52,9 @@ March 21, 2026
 | Teardown Begins                                |  5:05p |
 | Competitors Leave                              |  5:30p |
 | Teardown Complete                              |  6:00p |
-| No Host Social - Location TBD                  |  7:30p |
+| No Host Social                                 |  7:30p |
 
-TBA: No Host Social, all volunteers and competitors invited.
+No Host Social at [Monday Night Brewing @ The Grove](https://maps.app.goo.gl/8JRNkDPepsNvQXov9) all volunteers and competitors invited.
 
 <span style="font-size: 24px;">🗺️</span>\
 Klaus Advanced Computing Building\
