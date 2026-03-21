@@ -24,14 +24,14 @@ March 21, 2026
 
 ### Official Match Schedule
 
-| Game Schedule          | Time   |
-|------------------------|--------|
-| Match 1                | 10:00a |
-| Match 2                | 11:30a |
-| Match 3                |  1:00p |
-| Match 4                |  2:30p |
-| Grand Final            |  4:00p |
-| Event Closes to Public |  5:00p |
+| Game Schedule                       | Time   |
+|-------------------------------------|--------|
+| Match 1 - The Bots vs The A-Team    | 10:00a |
+| Match 2 - RoboJackets vs TritonBots | 11:30a |
+| Match 3 - The Bots vs RoboJackets   |  1:00p |
+| Match 4 - TritonBots vs The A-Team  |  2:30p |
+| Grand Final                         |  4:00p |
+| Event Closes to Public              |  5:00p |
 
 ### Full Event Schedule
 
@@ -39,13 +39,13 @@ March 21, 2026
 |------------------------------------------------|--------|
 | Event Opens to Competitors                     |  8:00a |
 | Event Opens to Public                          |  9:00a |
-| Match 1                                        | 10:00a |
+| Match 1 - The Bots vs The A-Team               | 10:00a |
 | Tech Talk - Motion Fundamentals                | 11:00a |
-| Match 2                                        | 11:30a |
+| Match 2 - RoboJackets vs TritonBots            | 11:30a |
 | Tech Talk - 3D Printing for Robotics           | 12:30p |
-| Match 3                                        |  1:00p |
+| Match 3 - The Bots vs RoboJackets              |  1:00p |
 | Tech Talk - Hierarchical State Machine AI      |  2:00p |
-| Match 4                                        |  2:30p |
+| Match 4 - TritonBots vs The A-Team             |  2:30p |
 | Tech Talk - Multi-Agent Reinforcement Learning |  3:30p |
 | Grand Final                                    |  4:00p |
 | Event Closes to Public                         |  5:00p |
