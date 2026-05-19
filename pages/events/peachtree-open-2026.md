@@ -6,7 +6,7 @@ event_public: true
 date: 2026-03-21
 ---
 
-![Peachtree Open Event Logo](/assets/img/peachtree-open-2026-logo.png){: height="250" }
+![Peachtree Open Event Logo](/assets/img/events/peachtree-open-2026-logo.png){: height="250" }
 
 The A-Team is proud to help [RoboJackets](https://robojackets.org/) host The RoboCup Small Size League US Open 2026: "**The Peachtree Open**", a spring [RoboCup Small Size League](https://ssl.robocup.org/) tournament.
 
